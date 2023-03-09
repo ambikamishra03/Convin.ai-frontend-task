@@ -9,7 +9,7 @@ export default function Hero() {
             Front End Task (Convin.ai)
             <br />
             <span className="text-2xl md:pl-2">
-              by <span className="text-blue-500">Saurabh Singh</span>
+              by <span className="text-blue-500">Ambika Mishra</span>
             </span>
           </h1>
         </div>
